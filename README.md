@@ -4,5 +4,6 @@
 4：中文 iOS/Mac 开发博客列表 https://github.com/tangqiaoboy/iOSBlogCN                                                                 
 5：iOS 学习资料整理  https://github.com/Aufree/trip-to-iOS                                                                              
 6:iOS 关键字self,super，copy, retain, assign , readonly , readwrite, nonatomic、@synthesize、@property、@dynamic http://www.cnblogs.com/csj007523/archive/2012/07/23/2605662.html
+7：iOS 深拷贝浅拷贝 https://segmentfault.com/a/1190000000604331 ----------  对象为不可变类型 copy 和retain strong一样   都是浅拷贝 引用计数+1   可变类型是深拷贝  创建了一个新的对象 原对象引用计数没变 新对象引用计数为1
 
     
